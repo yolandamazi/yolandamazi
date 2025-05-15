@@ -84,9 +84,9 @@ Here are some ideas to get you started:
 
 ### 📊 &nbsp;GitHub Statics            
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=auto" />
   <a href="https://github.com/yolandamazi">
-    <img src="https://streak-stats.demolab.com?user=yolandamazi&theme=dark&border_radius=4" />
+    <img src="https://streak-stats.demolab.com?user=yolandamazi&theme=auto&border_radius=4" />
   </a>
 </div>
 
