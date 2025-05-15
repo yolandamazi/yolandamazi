@@ -69,7 +69,6 @@ Here are some ideas to get you started:
 ![NetBeans](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
-![STDR Simulator](https://img.shields.io/badge/STDR--Simulator-lightgrey?style=for-the-badge)&nbsp;
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 
 ###
