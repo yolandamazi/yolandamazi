@@ -83,4 +83,6 @@ Here are some ideas to get you started:
 ### 📊 &nbsp;GitHub Statics            
 ![GitHub Resume](https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=dark)
 ![Repositories Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yolandamazi&theme=radical&border_radius=4)](https://github.com/yolandamazi)
+
 
