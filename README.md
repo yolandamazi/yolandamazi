@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 ###
 ---
 
-### 📊 &nbsp;GitHub Statics            
+### 📊 &nbsp;GitHub Statistics            
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=transparent" />
   <a href="https://github.com/yolandamazi">
