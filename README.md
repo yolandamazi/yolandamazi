@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 💡 &nbsp;I'm actively learning more about Cybersecurity and Data Science to deepen my knowledge and practical skills.\
 📄 &nbsp;Please have a look at my [resume](https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing) for more details about my background. I'm open to feedback and suggestions!\
 
-
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
 
 -->
@@ -25,6 +24,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h1>
+
+![Repositories Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&theme=dark)
+
 -->
 
 <p align="center">
@@ -82,7 +84,6 @@ Here are some ideas to get you started:
 
 ### 📊 &nbsp;GitHub Statics            
 ![GitHub Resume](https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=dark)
-![Repositories Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yolandamazi&theme=radical&border_radius=4)](https://github.com/yolandamazi)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yolandamazi&theme=dark&border_radius=4)](https://github.com/yolandamazi)
 
 
