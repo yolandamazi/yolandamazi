@@ -92,5 +92,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+###
+---
+
+_"You will face many defeats in life, but never let yourself be defeated."_ – **Maya Angelou**
 
 
