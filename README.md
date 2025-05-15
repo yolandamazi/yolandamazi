@@ -32,8 +32,10 @@ Here are some ideas to get you started:
             <li>📫 <b>You can reach me via email or my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">Linkedin</a> </li>
         </ul>
 </div>
----
                     
+###
+---
+
 ### 🛠 &nbsp;Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
