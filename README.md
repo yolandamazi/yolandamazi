@@ -71,15 +71,23 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>📊 GitHub Stats & Languages</summary>
 
   <br/>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=tokyonight)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&theme=tokyonight)
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&theme=tokyonight" alt="Languages"/>
+      </td>
+    </tr>
+  </table>
 
 </details>
+
 
 
 
