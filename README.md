@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 ### 📂 &nbsp;Projects
 | **Project Title**                                                                                                                            | **Description**                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [**Advanced NLP and ML Analysis of Medication Reviews**](https://github.com/Diego-HernSua/Drugs_Reviews_NLP_ML) | Application of advanced NLP and ML techniques to analyze medication reviews and predict drug effectiveness and side effects. |
+| [**
+Airport Operations Simulator**](https://github.com/Diego-HernSua/Drugs_Reviews_NLP_ML) | An advanced simulation of Madrid and Barcelona airport operations using concurrent and distributed programming (Java RMI), featuring real-time event logging and a graphical interface |
 | [**Linear and Discrete Models for Energy Production Optimization**](https://github.com/Diego-HernSua/Linear_Discrete_Models_Energy_Production_Optimization) | Optimization of energy production using linear and discrete models to improve efficiency and resource allocation. |
 | [**PageRank Algorithm Implementation for Web Page Ranking**](https://github.com/Diego-HernSua/Page_Rank_Wikipedia)                                                                      | Implementation of the PageRank algorithm using Apache Spark on Databricks to rank web pages based on link structures. |
 | [**Network Optimization and Non-linear Models**](https://github.com/Diego-HernSua/Network_Optimization_and_Non-linear-Models)           | Formulation and solution of network optimization problems, including vehicle routing and non-linear optimization for wood transportation. |
