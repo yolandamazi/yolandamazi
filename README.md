@@ -70,24 +70,13 @@ Here are some ideas to get you started:
 ###
 ---
 
-<details>
-  <summary>📊 GitHub Stats & Languages</summary>
-
-  <br/>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&theme=tokyonight" alt="Languages"/>
-      </td>
-    </tr>
-  </table>
-
-</details>
 
 
 
 
+
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=yolandamazi&show_icons=true&theme=tokyonight&line_height=24&card_width=450&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&langs_count=8&hide=Tcl&show_icons=true&theme=tokyonight&count_private=true)
