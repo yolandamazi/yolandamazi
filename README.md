@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/yolandamazi/yolandamazi/raw/main/banner-github.PNG" height="170"/>
+  <img src="https://github.com/yolandamazi/yolandamazi/raw/main/banner-github.PNG" height="150"/>
 </p>
-<h1 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h1>
+<h2 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h2>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
