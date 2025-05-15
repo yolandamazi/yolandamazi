@@ -40,7 +40,7 @@ Here are some ideas to get you started:
             <li>🎓 <b>I am currently pursuing a Bachelor's degree in Computer Engineering at the Escuela Politécnica Superior @ UAH.</li>
             <li>💡 <b>My main interests lie in Cybersecurity and Data Science focused in deepen my knowledge and practical skills.</li>
             <li>📄 <b>Check out my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">resume</a> for more details about my background — I’m always open to feedback and suggestions!</li>
-            <li>📫 <b>You can reach me via email or my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">Linkedin</a> </li>
+            <li>📫 <b>You can reach me via <a href=mailto:yolanda.omoregbee@edu.uah.es>email</a> or my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">Linkedin</a> </li>
         </ul>
 </div>
                     
@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ###
 ---
@@ -69,5 +69,6 @@ Here are some ideas to get you started:
 
 ###
 ---
+
 
 
