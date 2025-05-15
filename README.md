@@ -25,12 +25,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h1>
+-->
 
 <p align="center">
-  <img src="https://github.com/yolandamazi/yolandamazi/raw/main/Untitled%20design.png" height="200"/>
+  <img src="https://github.com/yolandamazi/yolandamazi/raw/main/banner-github.PNG" height="200"/>
 </p>
 <h1 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h1>
--->
 
 
 ### 👨🏻‍💻 &nbsp;About Me
