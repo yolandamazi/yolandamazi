@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [**Airport Operations Simulator**](https://github.com/yolandamazi/Simulador-Aeropuerto) | An advanced simulation of Madrid and Barcelona airport operations using concurrent and distributed programming (Java RMI), featuring real-time event logging and a graphical interface |
 | [**JavaComp**](https://github.com/yolandamazi/JavaComp) | Designed a desktop application for managing tech product sales, with features for customer accounts, product reviews, and administrative tools for inventory and client management. |
-| [**Logistics and Parcel Management Simulator**](https://github.com/yolandamazi/Simulador-CentroPaqueteria) | Built a parcel distribution simulation in C++ leveraging binary search trees and linked lists to manage logistics centers, track packages, and provide interactive search and reassignment features. |
+| [**Logistics and Parcel Management Simulator**](https://github.com/yolandamazi/Simulador-CentroPaqueteria) | Built a parcel distribution simulation leveraging binary search trees and linked lists to manage logistics centers, track packages, and provide interactive search and reassignment features. |
 
 ###
 ---
