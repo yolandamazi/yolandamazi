@@ -56,10 +56,7 @@ Here are some ideas to get you started:
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [**Airport Operations Simulator**](https://github.com/yolandamazi/JavaComp) | An advanced simulation of Madrid and Barcelona airport operations using concurrent and distributed programming (Java RMI), featuring real-time event logging and a graphical interface |
 | [**JavaComp**](https://github.com/yolandamazi/JavaComp) | Designed a desktop application for managing tech product sales, with features for customer accounts, product reviews, and administrative tools for inventory and client management. |
-| [**Logistics and Parcel Management Simulator**](https://github.com/Diego-HernSua/Page_Rank_Wikipedia)                                                                      | Built a parcel distribution simulation in C++ leveraging binary search trees and linked lists to manage logistics centers, track packages, and provide interactive search and reassignment features. |
-| [**Network Optimization and Non-linear Models**](https://github.com/Diego-HernSua/Network_Optimization_and_Non-linear-Models) | Formulation and solution of network optimization problems, including vehicle routing and non-linear optimization for wood transportation. |
-| [**Modeling for Medical Insurance Costs: Bayesian Analysis**](https://github.com/Diego-HernSua/Modeling_for_Medical_Insurance_Costs_Bayesian) | Application of Bayesian analysis to model medical insurance costs using various statistical techniques. |
-| [**CookingTok: Web Application**](https://github.com/Diego-HernSua/Cooking_Web_App/tree/main) | A web application for managing and discovering recipes with features for user profiles, interactive UI, comments, ratings, and advanced search. |
+| [**Logistics and Parcel Management Simulator**](https://github.com/Diego-HernSua/Page_Rank_Wikipedia) | Built a parcel distribution simulation in C++ leveraging binary search trees and linked lists to manage logistics centers, track packages, and provide interactive search and reassignment features. |
 
 ###
 ---
