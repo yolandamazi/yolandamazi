@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ##&nbsp;Welcome to my GitHub! ✨ -->
+### Welcome to my GitHub!✨
 
-### 👨🏻‍💻&nbsp;| About Me
+### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I am currently studying a Bachelor's in Computer Engineering at the Escuela Politécnica Superior @ UAH.\
 💡 &nbsp;I'm actively learning more about Cybersecurity and Data Science to deepen my knowledge and practical skills.\
 📄 &nbsp;Please have a look at my [resume](https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing) for more details about my background. I'm open to feedback and suggestions!\
 
-### 🛠&nbsp;| Tools
+### 🛠 &nbsp;Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -30,20 +30,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-### ⚙️&nbsp;| Statics
-
-<p align="center">
-  <a href="https://github.com/yolandamazi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
 
 
