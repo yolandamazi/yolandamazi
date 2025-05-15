@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Welcome to my GitHub! 👾✨</h1>
+<h1 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>  
