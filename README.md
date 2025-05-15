@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 💡 &nbsp;I'm actively learning more about Cybersecurity and Data Science to deepen my knowledge and practical skills.\
 📄 &nbsp;Please have a look at my [resume](https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing) for more details about my background. I'm open to feedback and suggestions!\
 
-### 🛠 &nbsp;— Languages
+### 🛠 &nbsp;— Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-
-### 🗃 &nbsp;— Databases
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-### 🧰 &nbsp;— Tools 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
