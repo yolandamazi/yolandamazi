@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)&nbsp;
 ![NetBeans](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 
 ###
 ---
