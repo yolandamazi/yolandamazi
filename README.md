@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 </p>
 <h1 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h1>
 -->
+<p align="center">
+  <img src="https://github.com/yolandamazi/yolandamazi/raw/master/Untitled%20design.png" height="200"/>
+</p>
+<h1 align="center">Welcome to @yolandamazi's GitHub! 👾✨</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>  
