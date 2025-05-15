@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### ⚙️&nbsp;| Statics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/yolandamazi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Adityakanoi2001">
