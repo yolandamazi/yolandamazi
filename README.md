@@ -95,6 +95,6 @@ Here are some ideas to get you started:
 ###
 ---
 
-_"You will face many defeats in life, but never let yourself be defeated."_ – **Maya Angelou**
+_"The greatest glory in living lies not in never falling, but in rising every time we fall."_ **— Nelson Mandela**
 
 
