@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![Ada](https://img.shields.io/badge/Ada-blueviolet?style=for-the-badge)&nbsp;
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
 ![VHDL](https://img.shields.io/badge/VHDL-maroon?style=for-the-badge)&nbsp;
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)&nbsp;
@@ -71,8 +72,7 @@ Here are some ideas to get you started:
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0000FF?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Jasmin for JVM](https://img.shields.io/badge/Jasmin%20for%20JVM-000000?style=for-the-badge&logo=java&logoColor=white)
 
 ###
