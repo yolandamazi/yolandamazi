@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         </p>
         <ul>
             <li>🎓 <b>I am currently pursuing a Bachelor's degree in Computer Engineering at the Escuela Politécnica Superior @ UAH.</li>
-            <li>💡 <b>My main interests lie in Cybersecurity and Data Science, focused in deepen my knowledge and practical skills.</li>
+            <li>💡 <b>My main interests lie in cybersecurity, with a focus on deepening my knowledge and practical skills.</li>
             <li>📄 <b>Check out my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">resume</a> for more details about my background — I’m always open to feedback and suggestions!</li>
             <li>📫 <b>You can reach me via <a href=mailto:yolanda.omoregbee@edu.uah.es>email</a> or my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">Linkedin</a> </li>
         </ul>
