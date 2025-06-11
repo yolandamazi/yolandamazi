@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Jasmin for JVM](https://img.shields.io/badge/Jasmin%20for%20JVM-000000?style=for-the-badge&logo=java&logoColor=white)
 
 ###
 ---
