@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
-![Ada](https://img.shields.io/badge/Ada-blueviolet?style=for-the-badge)&nbsp;
+![Ada](https://img.shields.io/badge/Ada-800080?style=for-the-badge&logo=ada&logoColor=white)&nbsp;
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
 ![VHDL](https://img.shields.io/badge/VHDL-maroon?style=for-the-badge)&nbsp;
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
