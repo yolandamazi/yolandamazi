@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![Repositories Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandamazi&layout=compact&theme=dark)
 
+<li>📄 <b>Check out my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">resume</a> for more details about my background — I’m always open to feedback and suggestions!</li>
+
 -->
 
 <p align="center">
@@ -42,7 +44,6 @@ Here are some ideas to get you started:
             <li>🎓 <b>I am currently pursuing a Bachelor's degree in Computer Engineering at the Escuela Politécnica Superior @ UAH.</li>
             <li>💡 <b>My main interests lie in cybersecurity, with a focus on deepening my knowledge and practical skills.</li>
             <li>💼 Currently working as a Junior Analyst in Crisis & Incident Response @ Deloitte T&T Cyber.</li>
-            <li>📄 <b>Check out my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">resume</a> for more details about my background — I’m always open to feedback and suggestions!</li>
             <li>📄 <b>Check out my <a href=https://drive.google.com/file/d/1JShIr52VhfYcFnPEMuUC2rKGyBdz3Rk4/view?usp=drivesdk">resume</a> for more details about my background — I’m always open to feedback and suggestions!</li>          
             <li>📫 <b>You can reach me via <a href=mailto:yolanda.omoregbee@edu.uah.es>email</a> or my <a href=https://drive.google.com/file/d/1toSNP6z513xIVrKAuisA1HfKPHUHWpcF/view?usp=sharing">Linkedin</a> </li>
         </ul>
