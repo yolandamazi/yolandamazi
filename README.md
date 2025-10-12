@@ -86,6 +86,8 @@ Here are some ideas to get you started:
 | [**JavaComp**](https://github.com/yolandamazi/JavaComp) | Designed a desktop application for managing tech product sales, with features for customer accounts, product reviews, and administrative tools for inventory and client management. |
 | [**Logistics & Parcels Simulator**](https://github.com/yolandamazi/Simulador-CentroPaqueteria) | Built a parcel distribution simulation leveraging binary search trees and linked lists to manage logistics centers, track packages, and provide interactive search and reassignment features. |
 | [**FPGA: OLED Display via PC Serial Port**](https://github.com/yolandamazi/fpga-oled-serial-display-pc) | Developed a VHDL-based system for the Nexys4 DDR FPGA that receives ASCII characters from a PC via RS232 and displays them on a Pmod OLED display, also showing their hexadecimal code on onboard seven-segment displays. |
+| [**Real-Time Systems Labs (Ada)**](https://github.com/yolandamazi/RealTimeSystemsLabs) | Series of Ada-based lab exercises covering key real-time system concepts, including task timing, inter-task and inter-process communication, interrupt handling, synchronization, shared resource management, and error handling. |
+
 ###
 ---
 
