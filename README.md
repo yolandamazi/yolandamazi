@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/R-9B59B6?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![RStudio](https://img.shields.io/badge/RStudio-2A9D8F?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-457B9D?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-F4A261?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-F4A261?style=for-the-badge&logo=numpy&logoColor=white&labelColor=F4A261)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-E63946?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-F4B942?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-F4B942?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=F4B942)&nbsp;
 ![x8086 Assembly](https://img.shields.io/badge/ASM_8086-6D597A?style=for-the-badge)&nbsp;
 ![C](https://img.shields.io/badge/C-264653?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-6A4C93?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
