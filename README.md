@@ -45,7 +45,7 @@ Here are some ideas to get you started:
         <ul>
             <li>🎓 <b>I am Computer Engineering Graduate @ Universidad de Alcalá.</li>
             <li>💡 <b>My main interests lie in data science, AI & ML, with a focus on deepening my knowledge and practical skills.</li>
-            <li>📄 <b>Check out my <a href=https://drive.google.com/file/d/1zLjkUFybXTQZe2bvmpLaSdExhPaP_PbU/view?usp=sharing">resume</a> for more details about my background — I’m always open to feedback and suggestions!</li>          
+            <li>📄 <b>Check out my <a href=https://drive.google.com/file/d/1z4TPxU855Gc5ncUceb_inwX4sMl4lz0s/view?usp=sharing">resume</a> for more details about my background — I’m always open to feedback and suggestions!</li>          
             <li>📫 <b>You can reach me via <a href=mailto:yolanda.omoregbee@gmail.es>email</a> or my <a href=https://www.linkedin.com/in/yolanda-omoregbee-amazi/>Linkedin</a> </li>
         </ul>
 </div>
